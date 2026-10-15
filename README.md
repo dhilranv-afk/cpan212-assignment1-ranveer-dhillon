@@ -140,4 +140,4 @@ Weather and geocoding data are provided by [Open-Meteo](https://open-meteo.com/)
 
 ## AI use
 
-ChatGPT was used for programming assistance during development, including help implementing and reviewing API modules, query validation, cache behavior, route handling, error handling, and API testing. The developer should review and understand the final implementation and verify that it meets the assignment requirements.
+ChatGPT was used solely as a technical reference tool for code generation and review. It assisted with API implementation, validation, caching, routing, error handling, and testing. In accordance with academic integrity guidelines, I have fully reviewed and verified the entire codebase, taking complete ownership of the final submission.
